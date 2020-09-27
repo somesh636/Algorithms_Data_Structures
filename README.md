@@ -1,2 +1,5 @@
-# Algorithms_Data_Structures
-Algorithms and codes using Python 
+# Algorithms and Data Structures
+Implementation of different Algorithms and Data Structres using Python 
+
+Reference: 
+Introduction_to_algorithms-3rd Edition.pdf
